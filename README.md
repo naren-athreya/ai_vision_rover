@@ -16,5 +16,5 @@ The list of components used is:
 
 
 
-##System Architecture
+## System Architecture
 <img width="686" height="567" alt="sys arch" src="https://github.com/user-attachments/assets/c6b6df20-62ab-475b-ab7b-605d6d17ae8d" />
