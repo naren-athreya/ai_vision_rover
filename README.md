@@ -12,3 +12,9 @@ The list of components used is:
 3. Pi 5 cooling module - a heat sink coupled coolong fan to keep processor in pi 5 at optimum temperatures.
 4. Pico W - a microcontroller that takes serial inputs from pi 5 and generates signals for the motor driver.
 5. 
+
+
+
+
+##System Architecture
+<img width="686" height="567" alt="sys arch" src="https://github.com/user-attachments/assets/c6b6df20-62ab-475b-ab7b-605d6d17ae8d" />
